@@ -1,1 +1,5 @@
-hiii
+<<<<<<< HEAD
+hello
+=======
+hello
+>>>>>>> feature
